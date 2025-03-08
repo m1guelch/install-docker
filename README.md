@@ -1,8 +1,7 @@
-Automated script for Docker and Docker compose installation on Debian 12
+Docker and Docker compose simple installation
 ==================
 
-This repository provides a script that installs both Docker and Docker compose on a Debian 12 server.
-
+This repository provides an automated script that installs both Docker and Docker compose on a Debian 12 server.
 
 # Usage
 
