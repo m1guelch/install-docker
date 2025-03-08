@@ -25,4 +25,5 @@ sudo chmod +x install_docker.sh
 sudo ./install_docker.sh
 ```
 
+
 You should now have Docker and Docker compose installed on your machine.
